@@ -1,6 +1,6 @@
 # Eva-CAM
 
-## Section 
+## Sections 
 * Overview
 * Eva-CAM Compilation
 * Input Configuration
